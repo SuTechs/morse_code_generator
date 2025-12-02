@@ -1,0 +1,5 @@
+{
+  "name": "MorseMaster AI",
+  "description": "A dual-mode Morse code tool: tap to generate signals manually with a realistic keyer, or type text to auto-animate and play sequences. Features AI-powered message generation.",
+  "requestFramePermissions": []
+}
